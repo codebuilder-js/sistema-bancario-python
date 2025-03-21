@@ -1,1 +1,2 @@
-# sistema-bancario-python
+# Sistema Bancário
+A primeira versão do programa permite que o usuário possa realizar 3 operações, sendo elas depósito, saque e extrato, com limite de 3 saques diários, limite máximo de saque de R$ 500,00 reais. Caso o usuário não tenha saldo, o sistema deverá exibir uma mensagem, informando que não será possível realizar o saque por falta de saldo. Todos os saques devem ser armazenados em uma variável e exibidos na operação de extrato. A operação de extrato deve listar todos os saques e depósitos realizados na conta, incluindo o saldo atual no fim da listagem.
